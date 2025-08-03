@@ -1,8 +1,0 @@
-google-cloud-aiplatform
-google-auth
-streamlit
-flask
-ipykernel
-jupyter
-requests
-python-dotenv
