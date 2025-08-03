@@ -18,3 +18,4 @@ vertex-ai-chatgpt/
 │── chatgpt_vertex_AI.py      # My Python file with ChatGPT code
 │── requirements.txt          # Libraries I used
 │── README.md                 # Project explanation
+│── .gitignore                # Protects secrets like Google Cloud key
