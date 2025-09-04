@@ -20,5 +20,5 @@ vertex-ai-chatgpt/
 │── README.md                 # Project explanation
 │── .gitignore                # Protects secrets like Google Cloud key
 
-## Screenshots
+## Screenshot
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/57f5f277-7ce9-4e37-9139-0f3a482c1ef7" />
