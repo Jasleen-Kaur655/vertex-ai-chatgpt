@@ -12,8 +12,6 @@ It uses the **Gemini (or Text-Bison) model** to generate responses and can be ru
 - Can be run in **VS Code** or **Streamlit Web App**.
 
 ---
-## Screenshots
-<img width="1100" height="500" alt="image" src="https://github.com/user-attachments/assets/57f5f277-7ce9-4e37-9139-0f3a482c1ef7" />
 
 ## 📂 Project Structure
 vertex-ai-chatgpt/
@@ -21,3 +19,6 @@ vertex-ai-chatgpt/
 │── requirements.txt          # Libraries I used
 │── README.md                 # Project explanation
 │── .gitignore                # Protects secrets like Google Cloud key
+
+## Screenshots
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/57f5f277-7ce9-4e37-9139-0f3a482c1ef7" />
