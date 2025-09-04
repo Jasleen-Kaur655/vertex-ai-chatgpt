@@ -12,6 +12,7 @@ It uses the **Gemini (or Text-Bison) model** to generate responses and can be ru
 - Can be run in **VS Code** or **Streamlit Web App**.
 
 ---
+<img width="1115" height="625" alt="image" src="https://github.com/user-attachments/assets/57f5f277-7ce9-4e37-9139-0f3a482c1ef7" />
 
 ## 📂 Project Structure
 vertex-ai-chatgpt/
